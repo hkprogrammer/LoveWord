@@ -1,0 +1,23 @@
+{
+  "name": "love-words-checker",
+  "version": "1.0.0",
+  "description": "A word checker for essays",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkprogrammer/LoveWord.git"
+  },
+  "keywords": [
+    "loveword",
+    "essay"
+  ],
+  "author": "Hitoki Kidahashi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hkprogrammer/LoveWord/issues"
+  },
+  "homepage": "https://github.com/hkprogrammer/LoveWord#readme"
+}
